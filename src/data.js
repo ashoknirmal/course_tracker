@@ -2,9 +2,9 @@
 
 const courses = [
   {
-    title: "Getting Started with Competitive Programming",
-    description: "12-week course starting from July 21, 2025, Exam Registration Ends :	15 Aug 2025, Exam Date :	26 Oct 2025 ",
-    link: "https://onlinecourses.nptel.ac.in/noc25_cs97/unit?unit=17&lesson=18"
+    title: " Design & Implementation of Human-Computer Interfaces",
+    description: "12-week course starting from July 21, 2025, Exam Registration Ends :	15 Aug 2025, Exam Date :	02 Nov 2025 ",
+    link: "https://onlinecourses.nptel.ac.in/noc25_cs135/unit?unit=39&assessment=196"
   },
   {
     title: " Introduction to Biomimicry",
